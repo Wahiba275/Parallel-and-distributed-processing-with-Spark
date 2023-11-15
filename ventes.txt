@@ -1,0 +1,15 @@
+
+2021-01-01 Casablanca Stylo 3
+2021-01-02 Rabat Cahier 5
+2021-01-02 Marrakech Stylo 3
+2022-01-02 Agadir  Ordinateur 800
+2022-01-03 Rabat Stylo 3
+2022-01-03 Agadir Chaise 45
+2022-01-03 Tanger Stylo 3
+2023-01-03 Marrakech Table 60
+2023-01-04 Oujda Téléphone 400
+2023-01-04 Casablanca Ordinateur 800
+2023-01-04 Rabat Cahier 5
+2023-01-05 Meknès Stylo 3
+2023-01-05 Tetouan Souris 15
+2023-01-04 Casablanca clavier 80
